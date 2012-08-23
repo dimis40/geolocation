@@ -65,6 +65,10 @@ body {
 	}
 }
 
+p{
+	text-align: inherit;
+}
+
 ::selection { 
 	background:#FF5E99; 
 	color:#fff; 
