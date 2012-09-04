@@ -1,4 +1,4 @@
 geolocation
 ===========
 
-Simple Geolocation
+Simple Geolocation Example
