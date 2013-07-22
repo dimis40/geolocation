@@ -1,0 +1,23 @@
+{
+  "name": "geolocation",
+  "version": "0.0.0",
+  "description": "find location and map on the google maps",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimis40/geolocation"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dimis40/geolocation/issues"
+  }
+}
